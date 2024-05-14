@@ -8,7 +8,7 @@ Full Stack Developer
 
 *   🌍  I'm based in Huancayo, Perú
 *   🖥️  See my portfolio at [My Portfolio](http://bit.ly/MSdevportfolio)
-*   🧠  I'm learning Express.js
+*   🧠  I'm learning NestJS and Next.js
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I love to learn new technologies every day### Skills 
 <p align="left">
