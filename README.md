@@ -22,7 +22,7 @@
 
 # 👨‍💼 About Me
 
-🎯 Enterprise-oriented Full Stack Engineer transitioning from **10+ years in corporate finance & regulation**
+🎯 Enterprise-oriented Full Stack Engineer transitioning from about **10 years in corporate finance & regulation**
 
 🏢 **EY (1.5 years)** – Financial Audit  
 🏛 **SBS Peru (8 years)** – Insurance Investment Supervision  
