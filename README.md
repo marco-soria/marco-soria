@@ -27,6 +27,7 @@
 🏢 **EY (1.5 years)** – Financial Audit  
 🏛 **SBS Peru (8 years)** – Insurance Investment Supervision  
 
+🚀 My Stack: **.NET + Angular + Azure** 
 💼 Strong background in **Business, Compliance & Regulatory Environments**  
 🧠 Domain-driven mindset (DDD influenced)  
 ☁️ Focused on scalable Microsoft-based cloud systems  
