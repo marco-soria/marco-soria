@@ -99,26 +99,3 @@ I combine **enterprise discipline, business understanding, and cloud-first engin
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
----
-
-# 🎯 2026 Focus
-
-🚀 Build 3 enterprise-grade systems:
-- Layered Architecture System  
-- Clean Architecture System  
-- Vertical Slice Architecture System  
-
-🎓 AZ-204 Certification  
-💼 Secure Remote Contractor Role (.NET + Angular + Azure)  
-🏆 Become Elite Enterprise Engineer  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200"/>
-</p>
-
-> “Discipline beats talent.  
-> Architecture beats improvisation.  
-> Consistency builds mastery.”
