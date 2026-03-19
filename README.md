@@ -33,7 +33,7 @@
 🧠 Domain-driven mindset (DDD influenced)  
 ☁️ Focused on scalable Microsoft-based cloud systems  
 🎓 Computer Science student (US-based university)  
-🏆 **AZ-900 Certified** | Preparing AZ-204  
+🏆 **AZ-900 Certified** | Preparing AI-200  
 🌎 Targeting remote contractor roles (USA / Canada)  
 🇺🇸 Advanced English proficiency – **TOEFL iBT 109/120 (2021)**  
 
@@ -76,7 +76,7 @@ I combine **enterprise discipline, business understanding, and cloud-first engin
 - Domain-Driven Design (DDD mindset)  
 - RESTful APIs  
 - Entity Framework Core  
-- Authentication & Authorization (JWT / Azure AD)  
+- Authentication & Authorization (JWT / Azure Entra)  
 - SOLID Principles  
 - Design Patterns  
 - Unit & Integration Testing  
